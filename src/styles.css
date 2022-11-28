@@ -1,7 +1,9 @@
 /* Add application styles & imports to this file! */
+div {
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive;
 
-p {
-  background-color: green;
+  border-radius: 5px;
 }
+
 
 @import '~bootstrap/dist/css/bootstrap.min.css';

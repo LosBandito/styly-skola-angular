@@ -1,7 +1,7 @@
 import { Component, VERSION } from '@angular/core';
 
 @Component({
-  selector: 'prvy',
+  selector: 'app-prvy',
   templateUrl: './prvy.component.html',
   styleUrls: ['./prvy.component.css'],
 })
